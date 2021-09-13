@@ -1,0 +1,16 @@
+1. Ask the User for an input
+2. Save the input
+3. Use do while loop and && condition to make sure the number is positive number from 1 - 8.
+
+4. Once I got the input that I want.
+    5. use for loop I guess, bc I need each incrementing number
+    6. It starts at 1 and ends at 8.
+    7. When it's 1 print 1 pound
+    8. When it's 2 print 2 pounds
+        9. How??
+            10. I don't need \n because they need to be in the same line.
+            11. Use the double loop.
+
+5. For reversed, right side aligned,
+    6. Use double loop
+    7. Print full line but n of "" empty string + pount
